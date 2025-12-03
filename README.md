@@ -11,7 +11,7 @@
 - [Files in This Repository](#-files-in-this-repository)
 - [Dashboard](#-dashboard)
 - [How to Run the Dashboard](#-how-to-run-the-dashboard)
-- [Key Insights & Findings](#-key-insights--findings)
+- [Key Insights & Findings](#-key-insights--finding)
 - [Business Recommendations](#-business-recommendations)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Conclusion](#-conclusion)
