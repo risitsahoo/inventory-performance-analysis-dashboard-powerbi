@@ -165,4 +165,4 @@ It demonstrates real-world data analytics skills and the ability to transform ra
 
 **Risit Sahoo**  
 📧 Email: risit.sahoo121@gmail.com 
-🔗 LinkedIn: linkedin.com/in/risitsahoo
+🔗 LinkedIn: [linkedin.com/in/risitsahoo](https://linkedin.com/in/risitsahoo)
