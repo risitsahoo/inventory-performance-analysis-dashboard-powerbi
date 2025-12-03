@@ -41,7 +41,7 @@ The dashboard highlights stock efficiency, ABC classifications, supplier perform
 
 ## 📂 Dataset & Preparation
 
-**Dataset:** [Inventory-Records-Data.xlsx](C:\Users\Risit\Downloads\Inventory-Records-Data.xlsx) 
+**Dataset:** `Inventory-Records-Data.xlsx`
 **Rows:** ~5,000  
 **Columns Include:** Product, Category, Supplier, Cost, Selling Price, Quantity, Date, Stock Level, Order Status, and more.
 
