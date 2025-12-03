@@ -97,7 +97,7 @@ Inventory-Performance-Analysis/
 
 ## 📈 Dashboard
 
-![Inventory-Records-Dashboard-image](Inventory-Records-Dashboard image.png)
+![image alt](https://github.com/risitsahoo/inventory-performance-analysis-dashboard-powerbi/blob/main/Inventory-Records-Dashboard%20image.png?raw=true)
 
 ---
 
