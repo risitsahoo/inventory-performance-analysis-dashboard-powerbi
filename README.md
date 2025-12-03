@@ -4,16 +4,16 @@
 
 ## 📑 Table of Contents
 
-- <a href="📌 Project Overview">Project Overview </a>
-- <a href="🎯 Key Objectives">Key objectives </a>
-- <a href="📂 Dataset & Preparation">Dataset & preparation </a>
-- <a href="🛠 Power BI Implementation">Powerbi implementation </a>
-- <a href="📁 Files in This Repository">Files in this repository </a>
+- <a href="📌 Project Overview">Project-Overview </a>
+- <a href="🎯 Key Objectives">Key-objectives </a>
+- <a href="📂 Dataset & Preparation">Dataset-&-preparation </a>
+- <a href="🛠 PowerBI Implementation">Powerbi-implementation </a>
+- <a href="📁 Files in This Repository">Files-in-this-repository </a>
 - <a href="📁 Dashboard">Dashboard </a>
-- <a href="▶ How to Run the Dashboard">How to run the dashboard </a>
-- <a href="📈 Key Insights & Findings">key insights findings </a>
-- <a href="💡 Business Recommendations">business recommendations </a>
-- <a href="📚 Skills Demonstrated">Skills Demonstrated </a>
+- <a href="▶ How to Run the Dashboard">How-to-run-the-dashboard </a>
+- <a href="📈 Key Insights & Findings">key-insights-&-findings </a>
+- <a href="💡 Business Recommendations">business-recommendations </a>
+- <a href="📚 Skills Demonstrated">Skills-Demonstrated </a>
 - <a href="🧩 Conclusion">Conclusion </a>
 - <a href="🧩 Contact">Contact </a>
 
@@ -62,7 +62,7 @@ The dashboard highlights stock efficiency, ABC classifications, supplier perform
 
 ---
 
-## 🛠 Power BI Implementation
+## 🛠 PowerBI Implementation
 
 The dashboard is composed of multiple analytical sections:
 
