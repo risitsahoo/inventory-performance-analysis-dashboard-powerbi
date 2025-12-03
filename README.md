@@ -1,26 +1,20 @@
 # 📊 Inventory Performance Analysis – Power BI Dashboard
 
-<p align="center">
-  <img src="screenshots/dashboard_overview.png" alt="Dashboard Preview" width="800">
-</p>
-
 ---
 
 ## 📑 Table of Contents
 
-- [📌 Project Overview](#-project-overview)
-- [🎯 Key Objectives](#-key-objectives)
-- [📂 Dataset & Preparation](#-dataset--preparation)
-- [🛠 Power BI Implementation](#-power-bi-implementation)
-- [📈 Key Insights & Findings](#-key-insights--findings)
-- [💡 Business Recommendations](#-business-recommendations)
-- [📁 Files in This Repository](#-files-in-this-repository)
-- [▶ How to Run the Dashboard](#-how-to-run-the-dashboard)
-- [📚 Skills Demonstrated](#-skills-demonstrated)
-- [🧩 Conclusion](#-conclusion)
-- [📬 Contact](#-contact)
-- [📄 License](#-license)
-
+- <a href="📌 Project Overview">Project-Overview </a>
+- <a href="🎯 Key Objectives">Key-objectives </a>
+- <a href="📂 Dataset & Preparation">Dataset--preparation </a>
+- <a href="🛠 Power BI Implementation">Power-bi-implementation </a>
+- <a href="📁 Files in This Repository">Files-in-this-repository </a>
+- <a href="📁 Dashboard">Dashboard </a>
+- <a href="▶ How to Run the Dashboard">How-to-run-the-dashboard </a>
+- <a href="📈 Key Insights & Findings">key-insights--findings </a>
+- <a href="💡 Business Recommendations">business-recommendations </a>
+- <a href="📚 Skills Demonstrated">conclusioskills-demonstratedn </a>
+- <a href="🧩 Conclusion">Conclusion </a>
 ---
 
 ## 📌 Project Overview
@@ -42,9 +36,10 @@ The dashboard highlights stock efficiency, ABC classifications, supplier perform
 
 ---
 
+
 ## 📂 Dataset & Preparation
 
-**Dataset:** `Inventory-Records-Sample-Data.xlsx`  
+**Dataset:** `Inventory-Records-Data.xlsx`  
 **Rows:** ~5,000  
 **Columns Include:** Product, Category, Supplier, Cost, Selling Price, Quantity, Date, Stock Level, Order Status, and more.
 
@@ -84,6 +79,37 @@ The dashboard is composed of multiple analytical sections:
 
 ---
 
+## 📁 Files in This Repository
+
+```
+Inventory-Performance-Analysis/
+├── Inventory-Performance-Dashboard.pbix              # PowerBI Dashboard
+├── data/
+│   └── Inventory-Records-Data.xlsx                   # Project Data
+├── docs/
+│   └── Inventory_Performance_Analysis_Report.pdf     # Project Report
+├── screenshots/
+│   └── Inventory-Records-Dashboard image.png         # Project dashboard image
+└── README.md
+```
+
+---
+
+## 📈 Dashboard
+
+![Inventory-Records-Dashboard-image](Inventory-Records-Dashboard image.png)
+
+---
+
+## ▶ How to Run the Dashboard
+
+1. Download the `.pbix` Power BI file  
+2. Open it using **Power BI Desktop**  
+3. Refresh the dataset if needed  
+4. Explore visuals, filters, and drill-through insights  
+
+---
+
 ## 📈 Key Insights & Findings
 
 ### 🔹 Inventory Efficiency  
@@ -117,32 +143,6 @@ The dashboard is composed of multiple analytical sections:
 
 ---
 
-## 📁 Files in This Repository
-
-```
-Inventory-Performance-Analysis/
-├── Inventory-Performance-Dashboard.pbix
-├── data/
-│   └── Inventory-Records-Sample-Data.xlsx
-├── docs/
-│   ├── Inventory_Performance_Analysis_Report.docx
-│   └── Inventory_Performance_Analysis_Report.pdf
-├── screenshots/
-│   └── dashboard_overview.png
-└── README.md
-```
-
----
-
-## ▶ How to Run the Dashboard
-
-1. Download the `.pbix` Power BI file  
-2. Open it using **Power BI Desktop**  
-3. Refresh the dataset if needed  
-4. Explore visuals, filters, and drill-through insights  
-
----
-
 ## 📚 Skills Demonstrated
 
 - Power BI (DAX, Data Modeling, Visual Design)  
@@ -152,7 +152,7 @@ Inventory-Performance-Analysis/
 - Insight Extraction & Reporting  
 - Dashboard Documentation  
 
----
+--- 
 
 ## 🧩 Conclusion
 
@@ -164,13 +164,5 @@ It demonstrates real-world data analytics skills and the ability to transform ra
 ## 📬 Contact
 
 **Risit Sahoo**  
-📧 Email: your-email  
-🔗 LinkedIn: your-linkedin  
-🌐 Portfolio: your-portfolio  
-
----
-
-## 📄 License
-
-Licensed under the **MIT License**.
-
+📧 Email: your-risit.sahoo121@gmail.com 
+🔗 LinkedIn: linkedin.com/in/risitsahoo 
